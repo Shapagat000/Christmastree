@@ -1,0 +1,46 @@
+.container{
+    background-color: white;
+    width:300px;
+    height:300px;
+    border-radius: 7px;
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 ;
+    text-align: center;
+   margin: 100px 200px 100px 600px;
+    
+    
+    
+}
+body{
+    background-color: rgb(225, 223, 223);
+}
+img{
+    display: flex;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    width:50px;
+    align-items: center;
+    margin-left: 125px;
+    margin-top: 200px;
+    
+}
+h4{
+    color:rgb(242, 141, 104);
+    margin-left: 10px;;
+}
+h1{
+    margin-left: 15px;
+
+}
+.button{
+    margin-left: 10px;
+    background-color: rgb(27, 27, 90);
+    border-radius:5px ;
+}
+p{
+    margin-left: 10px;;
+}
+.get{
+    color:white;
+}
